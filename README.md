@@ -74,7 +74,7 @@ The AI system is structured around the **LiveKit** framework, integrating **Open
 ## Demo 🎥
 
 ```markdown
-[![Watch the video](https://img.icons8.com/ios/452/play.png)](./v1.mp4)
+[![Watch the video](./image.png)](./v1.mp4)
 
 ```
 
