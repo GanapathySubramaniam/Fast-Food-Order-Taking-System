@@ -1,4 +1,3 @@
-Here's an updated version of the `README.md` with the name change and a sample code to embed a local video in GitHub:
 
 ---
 
