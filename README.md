@@ -73,7 +73,8 @@ The AI system is structured around the **LiveKit** framework, integrating **Open
 
 ## Demo 🎥
 
-<video src='v1.mp4' width=180/>
+<video src="v1.mp4"></video>
+  
 ## Customizing the System ⚙️
 
 - **Menu Customization:** Modify the **DynamoDB** entries to update menu items, prices, and descriptions.
