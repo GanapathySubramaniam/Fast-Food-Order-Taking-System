@@ -73,7 +73,7 @@ The AI system is structured around the **LiveKit** framework, integrating **Open
 
 ## Demo 🎥
 
-[<video src="[v1.mp4](https://github.com/GanapathySubramaniam/restaurant-kiosk/blob/main/v1.mp4)"></video>](https://github.com/GanapathySubramaniam/restaurant-kiosk/blob/main/v1.mp4)
+<video src="[v1.mp4](https://github.com/GanapathySubramaniam/restaurant-kiosk/blob/main/v1.mp4)"></video>https://github.com/GanapathySubramaniam/restaurant-kiosk/blob/main/v1.mp4)
   
 ## Customizing the System ⚙️
 
