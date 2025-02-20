@@ -2,6 +2,16 @@
 ---
 
 # 🛠️ Fast Food Order-Taking System 🍔
+```
+
+__________             _____     __________           _________   _______       _________                  ________      ______ _____                    ________              _____                 
+___  ____/_____ _________  /_    ___  ____/_________________  /   __  __ \____________  /____________      ___  __/_____ ___  /____(_)_____________ _    __  ___/____  __________  /____________ ___ 
+__  /_   _  __ `/_  ___/  __/    __  /_   _  __ \  __ \  __  /    _  / / /_  ___/  __  /_  _ \_  ___/________  /  _  __ `/_  //_/_  /__  __ \_  __ `/    _____ \__  / / /_  ___/  __/  _ \_  __ `__ \
+_  __/   / /_/ /_(__  )/ /_      _  __/   / /_/ / /_/ / /_/ /     / /_/ /_  /   / /_/ / /  __/  /   _/_____/  /   / /_/ /_  ,<  _  / _  / / /  /_/ /     ____/ /_  /_/ /_(__  )/ /_ /  __/  / / / / /
+/_/      \__,_/ /____/ \__/      /_/      \____/\____/\__,_/      \____/ /_/    \__,_/  \___//_/           /_/    \__,_/ /_/|_| /_/  /_/ /_/_\__, /      /____/ _\__, / /____/ \__/ \___//_/ /_/ /_/ 
+                                                                                                                                            /____/              /____/                               
+
+```
 
 This project is an AI-based fast food order-taking system designed to handle customer interactions in a friendly and efficient manner. Built using **LiveKit Agents** and **OpenAI's language models**, it provides a conversational interface where users can place orders, inquire about menu items, and customize their selections. The AI is designed to maintain a natural, human-like tone while assisting customers through the entire order process.
 
